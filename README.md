@@ -1,5 +1,7 @@
 # gen711-811-example
 
+MacNeill Matthews - cyanobacteria
+
 ## Project Title  
 
 New proj title
